@@ -32,7 +32,7 @@ def change_green(val):
 
 #Enter the path of the folder where the images are stored
 #Example: "C:\\Users\\XYZ\\*.png"
-folder_path="C:\\Users\\harsh\\OneDrive\\Desktop\\TestIP\\*.png"
+folder_path=""
 
 for file in glob.glob(folder_path):
 
